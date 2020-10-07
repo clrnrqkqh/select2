@@ -1,4 +1,7 @@
 Select2
+
+[![Run on Repl.it](https://repl.it/badge/github/select2/select2)](https://repl.it/github/select2/select2)
+
 =======
 ![Build Status][github-actions-image]
 [![Financial Contributors on Open Collective](https://opencollective.com/select2/all/badge.svg?label=financial+contributors)](https://opencollective.com/select2)
