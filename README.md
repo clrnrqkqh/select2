@@ -1,3 +1,7 @@
+자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요
+사이트 내용을 
+https://www.toptal.com/developers/gitignore
+
 Select2
 =======
 ![Build Status][github-actions-image]
